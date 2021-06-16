@@ -29,7 +29,7 @@ a:hover {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: linear-gradient(to right, rgb(28, 41, 65), rgb(36, 59, 85));
+  background: linear-gradient(to right, rgb(26, 39, 61), rgb(25, 45, 66));
   overflow-y: auto;
 }
 
@@ -58,7 +58,7 @@ a:hover {
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #212431;
+  background: #1f1b1bd5;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -372,5 +372,5 @@ footer {
 }
 
 .gradient {
-  background:  rgb(36, 59, 85);
+  background: rgb(25, 45, 66);
 }
